@@ -1,4 +1,4 @@
-# qr_attemdance
+# qr_attendance
 
 A new Flutter project.
 
